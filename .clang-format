@@ -2,7 +2,9 @@ Standard: c++20
 IndentWidth: 2
 BasedOnStyle: Mozilla
 
+AllowShortFunctionsOnASingleLine: All
 AllowShortIfStatementsOnASingleLine: Always
+AllowShortLambdasOnASingleLine: All
 FixNamespaceComments: true
 IncludeBlocks: Regroup
 SpaceAfterTemplateKeyword: true
