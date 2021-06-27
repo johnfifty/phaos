@@ -1,0 +1,8 @@
+Standard: c++20
+IndentWidth: 2
+BasedOnStyle: Mozilla
+
+AllowShortIfStatementsOnASingleLine: Always
+FixNamespaceComments: true
+IncludeBlocks: Regroup
+SpaceAfterTemplateKeyword: true
